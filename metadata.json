@@ -1,0 +1,6 @@
+{
+  "name": "QuickBasket - Food & Grocery Unified Commerce & BI",
+  "description": "Next-generation Indian unified food and grocery delivery platform featuring smart basket, split fulfillment, real-time multi-stage tracking, and executive business intelligence dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
